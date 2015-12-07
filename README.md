@@ -11,13 +11,13 @@ A collection of basic Android exercises
 7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-rybackpo)
 8. **Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-rybackpo)
 9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-rybackpo)
-10. **MyMusic App** - Service 
+10. **MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-rybackpo)
 11. **Splash Activity** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rybackpo)
 12. **Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rybackpo)
 13. **Help Activity** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rybackpo)
-14. **Green Target** 
-15. **Take a Picture** 
-16. **Buttons Demo** 
+14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-rybackpo)
+15. **Take a Picture** (https://github.com/DeLaSalleUniversity-Manila/takeapicture-rybackpo)
+16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-rybackpo)
 17. **Star Rating** 
 18. **Google Map Marker for DLSU** 
 19. **Screen Slides**
