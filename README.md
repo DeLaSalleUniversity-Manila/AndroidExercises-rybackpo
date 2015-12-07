@@ -18,11 +18,11 @@ A collection of basic Android exercises
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-rybackpo)
 15. **Take a Picture** (https://github.com/DeLaSalleUniversity-Manila/takeapicture-rybackpo)
 16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-rybackpo)
-17. **Star Rating** 
+17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-rybackpo)
 18. **Google Map Marker for DLSU** 
 19. **Screen Slides**
 20. **ViewPager with Text-to-Speech Demo** 
-21. **Play Video** 
+21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-rybackpo)
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-rybackpo)
 23. **Mini-database with Text file** 
 24. **Settings Activity** 
