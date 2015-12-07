@@ -7,7 +7,7 @@ A collection of basic Android exercises
 3. **Activity Lifecycle** (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-rybackpo)
 4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-rybackpo)
 5. **Linking Android Activities** (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-rybackpo)
-6. **WeekDay App using Date Picker Fragment** 
+6. **WeekDay App using Date Picker Fragment** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-rybackpo)
 7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-rybackpo)
 8. **Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-rybackpo)
 9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-rybackpo)
