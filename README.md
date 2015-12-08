@@ -19,9 +19,9 @@ A collection of basic Android exercises
 15. **Take a Picture** (https://github.com/DeLaSalleUniversity-Manila/takeapicture-rybackpo)
 16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-rybackpo)
 17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-rybackpo)
-18. **Google Map Marker for DLSU** 
-19. **Screen Slides**
-20. **ViewPager with Text-to-Speech Demo** 
+18. **Google Map Marker for DLSU** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-rybackpo)
+19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-rybackpo)
+20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-rybackpo)
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-rybackpo)
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-rybackpo)
 23. **Mini-database with Text file** 
@@ -30,8 +30,8 @@ A collection of basic Android exercises
 26. **Grocery App** 
 27. **Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-rybackpo)
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-rybackpo)
-29. **OpenCV 3.0 15-Tile Camera Puzzle** 
-30. **Image Local Binary Pattern** 
+29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-rybackpo)
+30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-rybackpo)
 31. **OpenCV 3.0 Mixed-Signal Processing**   
 32. **OpenCV 3.0 Face Detection Sample** 
 33. **OpenCV 3.0 Image Manipulations** 
@@ -39,11 +39,11 @@ A collection of basic Android exercises
 35. **Get Neighboring Hospitals** 
 36. **OpenCV 3.0 Color Blob Detection Sample** 
 37. **Android Native Camera Access with Native OpenCV Processing through JNI**
-38. **Android Camera Bitmap Access through JNI** 
+38. **Android Camera Bitmap Access through JNI**  (https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-rybackpo/tree/master)
 39. **Cat Face Detection** 
 40. **QR and Bar Code Reader** 
 41. **OpenCV 3.0 Camera Control** 
-42. **OpenCV 3.0 Image Manipulations with Action Bar 
+42. **OpenCV 3.0 Image Manipulations with Action Bar**
 43. **FAST Keypoints** 
 44. **AKAZE Keypoints** 
 45. **Colored Gray** 
@@ -53,11 +53,11 @@ A collection of basic Android exercises
 49. **Pedestrian Detection** 
 50. **Voronoi Effects** 
 51. **FANN Library in Android** 
-52. **Hello JNI Sample** 
+52. **Hello JNI Sample** (https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-rybackpo)
 53. **Sensor (Accelerometer) graph with OpenGL** 
-54. **Hello GL2** 
-55. **Bitmap Plasma** 
-56. **Teapot Render** 
+54. **Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-rybackpo)
+55. **Bitmap Plasma** (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-rybackpo)
+56. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-rybackpo)
 57. **Face Detection in OpenCV with Gradle Experimental Plugin** 
 58. **Canny Edge OpenCV with Android Experimental Gradle Plugin** 
 59. **Color Reduction** 
@@ -83,19 +83,19 @@ A collection of basic Android exercises
 79. **Native Bitmap Access** 
 80. **Image Histogram** 
 81. **Adaptive Thresholding** 
-82. **DISMATH Refresher App** 
+82. **DISMATH Refresher App** (https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000)
 83. **Full Body Detection** 
 84. **Histogram of Gradients (HOG) Features** 
 85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** 
-86. **Tesseract OCR Demo**
+86. **Tesseract OCR Demo** (https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000)
 87. **CMT Tracker with AKAZE Features** 
 88. **CMT Tracker with ORB Features** 
-89. **San Angeles** 
+89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-rybackpo)
 90. **OpenGL ES 3.0 Demo** 
 91. **2048 Game** 
 92. **Green Wall Game** 
-93. **Octodroid** 
-94. **Flappy Bird (Clone)** 
+93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-rybackpo)
+94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-rybackpo)
 95. **9GAG (Unofficial App)** 
 96. **MP Android Chart Demo** 
 97. **Puzzle Collection** 
