@@ -98,7 +98,7 @@ A collection of basic Android exercises
 94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-rybackpo)
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-rybackpo)
 96. **MP Android Chart Demo** 
-97. **Puzzle Collection** 
+97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-rybackpo)
 98. **Super Jumper** 
 99. **Super Mario (Android Clone)** 
 100. **Google's Santa Tracker** 
