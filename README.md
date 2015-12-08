@@ -93,10 +93,10 @@ A collection of basic Android exercises
 89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-rybackpo)
 90. **OpenGL ES 3.0 Demo** 
 91. **2048 Game** 
-92. **Green Wall Game** 
+92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-rybackpo)
 93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-rybackpo)
 94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-rybackpo)
-95. **9GAG (Unofficial App)** 
+95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-rybackpo)
 96. **MP Android Chart Demo** 
 97. **Puzzle Collection** 
 98. **Super Jumper** 
